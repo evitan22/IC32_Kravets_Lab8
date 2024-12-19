@@ -1,0 +1,21 @@
+li {
+    list-style-type: none;
+    width: 30%;
+    text-align: center;
+}
+
+.image {
+    width: 95%;
+    height: 250px;
+    cursor: pointer;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.image:hover {
+    width: 100%;
+}
