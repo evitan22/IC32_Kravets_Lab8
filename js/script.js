@@ -15,33 +15,33 @@ const images = [
         description: "description 1"
     },
     {
-        preview: "Images/page1.jpg",
+        preview: "Images/page4.2.jpg",
         original: "Images/page4.1.jpg",
         description: "description 1"
     },
     {
-        preview: "Images/page1.2.jpg",
-        original: "Images/page1.jpg",
+        preview: "Images/page5.2.jpg",
+        original: "Images/page5.1.jpg",
         description: "description 1"
     },
     {
-        preview: "Images/page1.2.jpg",
-        original: "Images/page1.jpg",
+        preview: "Images/page6.2.jpg",
+        original: "Images/page6.1.webp",
         description: "description 1"
     },
     {
-        preview: "Images/page1.2.jpg",
-        original: "Images/page1.jpg",
+        preview: "Images/page7.2.jpg",
+        original: "Images/page7.1.jpg",
         description: "description 1"
     },
     {
-        preview: "Images/page1.2.jpg",
-        original: "Images/page1.jpg",
+        preview: "Images/page8.2.jpg",
+        original: "Images/page8.1.jpg",
         description: "description 1"
     },
     {
-        preview: "Images/page1.2.jpg",
-        original: "Images/page1.jpg",
+        preview: "Images/page9.2.jpg",
+        original: "Images/page9.1.jpg",
         description: "description 1"
     }
 ]
